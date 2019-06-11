@@ -12,7 +12,7 @@ Concat is the faster way to concatenate 2 arrays.
 `For` loop and `forEach` methods with push are 3x times more slow than `concat`.
 
 [view results HERE]()
-
+![Alt image](https://github.com/ivanhuay/micron-concat-vs-push/blob/master/img/img.png?raw=true)
 ## run the test
 
 ```
